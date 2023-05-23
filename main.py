@@ -1,5 +1,5 @@
 # Modules:
-from funtions import * # the functions
+from functions import * # the functions
 import msvcrt as m
 import threading as th # for timers
 import winsound as w # for playing music
