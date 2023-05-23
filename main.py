@@ -1,7 +1,5 @@
-# Mohammad Sobhan Sanjabi 991531033 محمد سبحان سنجابي
-
 # Modules:
-from funs import * # the functions
+from funtions import * # the functions
 import msvcrt as m
 import threading as th # for timers
 import winsound as w # for playing music
