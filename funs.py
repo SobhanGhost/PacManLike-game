@@ -1,5 +1,3 @@
-#             Besmellah
-# Mohammad Sobhan Sanjabi 991531033 محمد سبحان سنجابي
 # Modules:
 import random as r 
 import threading as th # For Timers
