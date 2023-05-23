@@ -1,0 +1,3 @@
+Best Score: 27
+Best PlayTime: 26
+Last Score: 16
